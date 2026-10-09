@@ -2,7 +2,6 @@
 <resources>
     <!-- Source -->
     <string name="description_source_ns_client">从 Nightscout 下载 血糖数据</string>
-    <string name="description_source_xdrip">从 xDrip+ 接收血糖值。</string>
     <string name="dexcom_app_patched">BYODA德康补丁版(构建你自己的德康应用Build Your Own Dexcom App)</string>
     <string name="dexcom_short">BYODA</string>
     <string name="description_source_dexcom">从德康补丁版接收血糖数据(Build Your Own Dexcom App)。</string>
@@ -25,4 +24,7 @@
     <!-- Patched Sino App -->
     <string name="patched_sino_app">爱看补丁版</string>
     <string name="description_source_patched_sino_app">从爱看补丁版App接收血糖值。</string>
+    <!-- SIB App -->
+    <string name="sibionics">硅基（Sibionics）</string>
+    <string name="description_source_sibionics">从硅基（Sibionics）应用接收血糖值</string>
 </resources>
